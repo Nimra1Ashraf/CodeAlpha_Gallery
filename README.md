@@ -1,3 +1,5 @@
+Image Gallery Project
+
 An interactive and responsive image gallery built using HTML, CSS, and JavaScript.
 This project displays images in a clean grid layout with smooth transitions.
 
